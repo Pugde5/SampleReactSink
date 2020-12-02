@@ -1,0 +1,39 @@
+{
+  "name": "create-react-app",
+  "version": "4.0.0",
+  "private": true,
+  "homepage": "https://localhost/portalSink",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "^4.9.1",
+    "axios": "^0.21.0",
+    "clsx": "latest",
+    "notistack": "^1.0.2",
+    "oidc-client": "^1.10.1",
+    "ramda": "^0.27.1",
+    "ramda-adjunct": "^2.28.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-i18next": "^11.7.4",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
